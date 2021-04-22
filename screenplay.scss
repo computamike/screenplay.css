@@ -14,4 +14,56 @@ $courier: 'Courier Prime', serif;
 body {
   font-family: $courier;
   font-size: 12pt;
+  margin-left : 1.5in;
+  margin-right: 1.25 in;
+  margin-top: 1in;
+  margin-bottom: 1in;
+  
+}
+
+.dialog{
+    margin-left : 1in;
+    width: 3in;
+}
+
+.actors-instructions{
+    margin-left : 1.6in;
+}
+
+.character-cue{
+    margin-left : 2.2in;  
+}
+
+.scene{
+    margin-bottom: 12pt;
+}
+
+.scene-transitions, .fade-out{
+    text-align: right;
+}
+.fade-in{
+    text-align: left;
+}
+
+.print-only {
+  display: none;
+  @media print { 
+      display: block; 
+  }
+}
+page{
+ @media print
+    {
+        .pagebreak { page-break-before: always; } /* page-break-after works, as well */
+    }   
+    screenplay-title{
+        display:block;
+    }
+    by{
+        display:block;
+    }
+    author{
+        display:block;
+    }
+    background: green;
 }
