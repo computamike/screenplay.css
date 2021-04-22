@@ -4,3 +4,14 @@
 /// @group core
 /// @author Mike Hingley
 ////
+
+/// Typography
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+$courier: 'Courier Prime', serif;
+
+body {
+  font-family: $courier;
+  font-size: 12pt;
+}
