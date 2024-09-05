@@ -39,3 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 This is some tests of class{.dialog}
 
+> A blockquote with a title
+{:title="The blockquote title"}
+{: #myid}
