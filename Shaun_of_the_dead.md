@@ -1,8 +1,15 @@
+<div class="title-page">
+
+    Title of the Document
+    {: .screenplay-title}
+    Subtitle or Author Name
+    {: .by}
+    
+</div>
+
 Shaun of the dead
-
-{: .title-page}
-
-
+<div class="content">
+  
 Fade in:
 {: .fade-in}
 SPOOKY NOISES...CURIOUSLY ELECTRONIC...A BELL RINGS...
@@ -360,3 +367,6 @@ BANG. A FOOTBALL hits SHAUN in the head. He turns to see the BORED KID grinning 
 SHAUN
 Oh you’re dead!
 SHAUN boots the ball back. He walks past PETE in his car and crosses the road. He heads for the newsagent passing a HOMELESS MAN in a green coat with a dog on a lead. He stands with an ARM OUTSTRETCHED. SHAUN gives him some change.
+
+</div>
+<div class="page-number"></div>
