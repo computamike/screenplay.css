@@ -1,87 +1,121 @@
 SPOOKY NOISES...CURIOUSLY ELECTRONIC...A BELL RINGS...{:
 INT. PUB - NIGHT
 LANDLORD (O.S.)
-Last orders please.{: .dialog}
+Last orders please.
+{: .dialog}
 Close up on the face of a MAN. He draws on his cigarette.
 WOMAN’S VOICE (O.S.)
 Shaun?
 SHAUN stares blankly into space.
 SHAUN
-Yeah...{: .dialog}
+Yeah...
+{: .dialog}
 WOMAN’S VOICE
-Do you see what I’m saying?{: .dialog}
+Do you see what I’m saying?
+{: .dialog}
 SHAUN
-Yeah, totally.{: .dialog}
+Yeah, totally.
+{: .dialog}
 We reveal that SHAUN is sitting with a woman, LIZ. They are both in their late twenties. LIZ looks slightly concerned, SHAUN looks slightly confused. They are having a drink.
 LIZ
-You shouldn’t feel so responsible.{: .dialog}
+You shouldn’t feel so responsible.
+{: .dialog}
 SHAUN
-Yeah...{: .dialog}
+Yeah...
+{: .dialog}
 LIZ
-I know he’s your best friend but you do live with him.{: .dialog}
+I know he’s your best friend but you do live with him.
+{: .dialog}
 SHAUN
-I know...{: .dialog}
+I know...
+{: .dialog}
 LIZ
-It’s not that I don’t like Ed.{: .dialog}
+It’s not that I don’t like Ed.
+{: .dialog}
 speaks off to her right
-Ed, it’s not that I don’t like you.{: .dialog}
+Ed, it’s not that I don’t like you.
+{: .dialog}
 ED
-S’alright.{: .dialog}
+S’alright.
+{: .dialog}
 We reveal ED right next to them, playing a horror themed FRUIT MACHINE which bleeps spooky electronic noises. He is in his late twenties and slightly overweight.
 LIZ
-It’d just be nice if we could-{: .dialog}
+It’d just be nice if we could-
+{: .dialog}
 ED
 hits the fruit machine
-Fuck!{: .dialog}
+Fuck!
+{: .dialog}
 LIZ
--spend a bit more time together-{: .dialog}
+-spend a bit more time together-
+{: .dialog}
 ED
-Bollocks!{: .dialog}
+Bollocks!
+{: .dialog}
 LIZ
 -just the two of us-
 ED
-Cock it!{: .dialog}
+Cock it!
+{: .dialog}
 A beat.
 LIZ
-We have a laugh don’t we?{: .dialog}
+We have a laugh don’t we?
+{: .dialog}
 SHAUN
-Yeah...{: .dialog}
+Yeah...
+{: .dialog}
 SHAUN and LIZ smile, sharing some private joke. SHAUN relaxes, momentarily off the hook. But...
 LIZ
-But with Ed always here, it’s no wonder I end up bringing my flatmates out. Then that only exacerbates things.{: .dialog}
+But with Ed always here, it’s no wonder I end up bringing my flatmates out. Then that only exacerbates things.
+{: .dialog}
 SHAUN
-What do you mean?{: .dialog}
+What do you mean?
+{: .dialog}
 LIZ
-Well, you guys hardly get on do you?{: .dialog}
+Well, you guys hardly get on do you?
+{: .dialog}
 SHAUN
-No, what does exacerbate mean?{: .dialog}
+No, what does exacerbate mean?
+{: .dialog}
 LIZ
-It means ‘to make things worse’.{: .dialog}
+It means ‘to make things worse’.
+{: .dialog}
 SHAUN
-Oh right. Look, it’s not that I don’t like David and Di.{: .dialog}
+Oh right. Look, it’s not that I don’t like David and Di.
+{: .dialog}
 speaks off to his right
 SHAUN
-Guys, it’s not that I don’t like you...{: .dialog}
+Guys, it’s not that I don’t like you...
+{: .dialog}
 DAVID
-That’s alright.{: .dialog}
+That’s alright.
+{: .dialog}
 DIANNE
-That’s alright.{: .dialog}
+That’s alright.
+{: .dialog}
 We reveal DAVID and DIANNE, sitting next to LIZ. Both in their late twenties, DAVID is trendy but straight-laced, DI is colourful and chirpy. They hold hands.
 SHAUN
-And it’s not that I don’t want to spend time with you because I do. It’s just, Ed doesn’t really have too many friends-{: .dialog}
+And it’s not that I don’t want to spend time with you because I do. It’s just, Ed doesn’t really have too many friends-
+{: .dialog}
 ED
-Can I get any of you cunts a drink?{: .dialog}
+Can I get any of you cunts a drink?
+{: .dialog}
 SHAUN closes his eyes.
 ED
-Anybody?{: .dialog}
+Anybody?
+{: .dialog}
 DAVID
-No thanks.{: .dialog}
+No thanks.
+{: .dialog}
 DIANNE
-No thanks.{: .dialog}
+No thanks.
+{: .dialog}
 LIZ
-I’m fine thanks, Ed.{: .dialog}
+I’m fine thanks, Ed.
+{: .dialog}
 ED
-Pint Shaun?{: .dialog}
+Pint Shaun?
+{: .dialog}
 SHAUN nods. ED holds out his palm to SHAUN, who sighs and reluctantly hands him a fiver. Meanwhile, DAVID steps in.
 DAVID
 I know friends are important Shaun, but you’ve got to set aside quality time for just the two of you. I know I would, if I was Lizzy’s boyfriend.
