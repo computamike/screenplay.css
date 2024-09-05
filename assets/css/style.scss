@@ -12,16 +12,21 @@
 /// Typography
 // Google Fonts
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@page {
+  margin-left : 1.5in;
+  margin-right: 1.25in;
+  margin-top: 1in;
+  margin-bottom: 1in;
+}
+
+
 
 $courier: 'Courier Prime', serif;
 
 body {
   font-family: $courier;
   font-size: 12pt;
-  margin-left : 1.5in;
-  margin-right: 1.25in;
-  margin-top: 1in;
-  margin-bottom: 1in;
+
   
 }
 
