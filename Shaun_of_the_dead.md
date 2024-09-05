@@ -1,9 +1,13 @@
-SPOOKY NOISES...CURIOUSLY ELECTRONIC...A BELL RINGS...{:
+Fade in:
+{: .fade-in}
+SPOOKY NOISES...CURIOUSLY ELECTRONIC...A BELL RINGS...
+{: .scene}
 INT. PUB - NIGHT
 LANDLORD (O.S.)
 Last orders please.
 {: .dialog}
 Close up on the face of a MAN. He draws on his cigarette.
+{: .action}
 WOMAN’S VOICE (O.S.)
 Shaun?
 SHAUN stares blankly into space.
@@ -17,6 +21,7 @@ SHAUN
 Yeah, totally.
 {: .dialog}
 We reveal that SHAUN is sitting with a woman, LIZ. They are both in their late twenties. LIZ looks slightly concerned, SHAUN looks slightly confused. They are having a drink.
+{: .action}
 LIZ
 You shouldn’t feel so responsible.
 {: .dialog}
