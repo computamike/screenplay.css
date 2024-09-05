@@ -1,3 +1,7 @@
+---
+layout: screenplay
+title: Shaun Of the Dead - styled using markdown
+---
 <div class="title-page">
 
     Title of the Document
