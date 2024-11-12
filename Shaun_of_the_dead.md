@@ -3,8 +3,8 @@ layout: screenplay
 title: Shaun Of the Dead - styled using markdown
 ---
 
-<div class="print-container">
-    <div class="centered-text">
+<wip-page class="print-container">
+    <div class="wip-title-page">
         This is the text block that will be centered on the printed page.
     </div>
 </div>
