@@ -67,6 +67,36 @@ body {
   }
 }
 
+
+/* Specific layout for title pages when printing*/
+@media print {
+    body, html {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    wip-page {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Full viewport height */
+        width: 100vw; /* Full viewport width */
+        margin: 0;
+        padding: 0;
+    }
+
+    .wip-title-page {
+        text-align: center;
+        font-size: 1.5em; /* Adjust as needed */
+        padding: 20px; /* Optional padding */
+        border: 1px solid #000; /* Optional border */
+    }
+}
+
+
+
+
 page{
  @media print
  {
