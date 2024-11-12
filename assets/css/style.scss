@@ -93,13 +93,13 @@ body {
         border: 1px solid #000; /* Optional border */
     }
 
-      @bottom-center {
-       position: fixed;
-       content: "Page " counter(page);
-       bottom: 0;
-       width: 100%;
-       text-align: center;
-     }
+    @page {
+        @bottom-center {
+            content: "Page " counter(page);
+            font-size: 12px;
+            color: #000;
+        }
+    }
 
   
 }
