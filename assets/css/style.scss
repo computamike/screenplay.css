@@ -91,11 +91,7 @@ body {
   margin-right: 1.25in;
   margin-top: 1in;
   margin-bottom: 1in;
-  @bottom-center {
-    content: "Page " counter(page);
-    font-size: 12px;
-    color: #000;
-  }
+ 
 }
 }
 
