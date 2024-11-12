@@ -3,15 +3,14 @@ layout: screenplay
 title: Shaun Of the Dead - styled using markdown
 ---
 
-Title of the Document
-{: .screenplay-title}
-
-Subtitle or Author Name
-{: .by}
-
-<div markdown="1">
-   My text with **markdown** syntax
+<div class="print-container">
+    <div class="centered-text">
+        This is the text block that will be centered on the printed page.
+    </div>
 </div>
+
+
+
 
 <page  markdown="1">
 Title of the Document
