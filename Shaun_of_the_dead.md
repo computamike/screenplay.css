@@ -11,7 +11,10 @@ Subtitle or Author Name
 
 
 <div class="title-page">
-
+{% markdown %}
+    ## This is a Markdown heading inside an HTML block
+    This is a Markdown paragraph with **bold text**.
+{% endmarkdown %}
     Title of the Document
     {: .screenplay-title}
     Subtitle or Author Name
