@@ -12,12 +12,6 @@
 /// Typography
 // Google Fonts
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
-@page {
-  margin-left : 1.5in;
-  margin-right: 1.25in;
-  margin-top: 1in;
-  margin-bottom: 1in;
-}
 
 
 
@@ -76,32 +70,33 @@ body {
         padding: 0;
     }
 
-    wip-page {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh; /* Full viewport height */
-        width: 100vw; /* Full viewport width */
-        margin: 0;
-        padding: 0;
-    }
+    // wip-page {
+    //     display: flex;
+    //     justify-content: center;
+    //     align-items: center;
+    //     height: 100vh; /* Full viewport height */
+    //     width: 100vw; /* Full viewport width */
+    //     margin: 0;
+    //     padding: 0;
+    // }
 
-    .wip-title-page {
-        text-align: center;
-        font-size: 1.5em; /* Adjust as needed */
-        padding: 20px; /* Optional padding */
-        border: 1px solid #000; /* Optional border */
-    }
-
-    @page {
-        @bottom-center {
-            content: "Page " counter(page);
-            font-size: 12px;
-            color: #000;
-        }
-    }
-
-  
+    // .wip-title-page {
+    //     text-align: center;
+    //     font-size: 1.5em; /* Adjust as needed */
+    //     padding: 20px; /* Optional padding */
+    //     border: 1px solid #000; /* Optional border */
+    // }
+@page {
+  margin-left : 1.5in;
+  margin-right: 1.25in;
+  margin-top: 1in;
+  margin-bottom: 1in;
+  @bottom-center {
+    content: "Page " counter(page);
+    font-size: 12px;
+    color: #000;
+  }
+}
 }
 
 
