@@ -13,12 +13,11 @@ Subtitle or Author Name
    My text with **markdown** syntax
 </div>
 
-<div class="title-page">
-     Title of the Document
-    {: .screenplay-title}
-    Subtitle or Author Name
-    {: .by}
-    
+<div class="title-page" markdown="1">
+Title of the Document
+{: .screenplay-title}
+Subtitle or Author Name
+{: .by}
 </div>
 
 Shaun of the dead
