@@ -7,7 +7,7 @@ title: Shaun Of the Dead - styled using markdown
     <div class="wip-title-page">
         This is the text block that will be centered on the printed page.
     </div>
-</div>
+</wip-page>
 
 
 
