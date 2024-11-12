@@ -9,13 +9,12 @@ Title of the Document
 Subtitle or Author Name
 {: .by}
 
+<div markdown="1">
+   My text with **markdown** syntax
+</div>
 
 <div class="title-page">
-{% markdown %}
-    ## This is a Markdown heading inside an HTML block
-    This is a Markdown paragraph with **bold text**.
-{% endmarkdown %}
-    Title of the Document
+     Title of the Document
     {: .screenplay-title}
     Subtitle or Author Name
     {: .by}
