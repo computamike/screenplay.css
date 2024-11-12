@@ -2,6 +2,14 @@
 layout: screenplay
 title: Shaun Of the Dead - styled using markdown
 ---
+
+Title of the Document
+{: .screenplay-title}
+
+Subtitle or Author Name
+{: .by}
+
+
 <div class="title-page">
 
     Title of the Document
