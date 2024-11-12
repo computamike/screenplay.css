@@ -28,6 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Example Screenplay file ### 
+As a massive Shaun of the dead fan, you can see my attempts at rendering a screen play using an example - [Shaun of the dead](/Shaun_of_the_dead)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/computamike/screenplay.css/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
