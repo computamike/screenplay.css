@@ -12,18 +12,7 @@ Subtitle or Author Name
 </div>
 </wip-page>
 
-
-
-
-<page  markdown="1">
-Title of the Document
-{: .screenplay-title}
-Subtitle or Author Name
-{: .by}
-</page>
-
-Shaun of the dead
-<div class="content">
+<div class="content" markdown="1">
   
 Fade in:
 {: .fade-in}
