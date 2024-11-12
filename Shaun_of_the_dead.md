@@ -4,8 +4,11 @@ title: Shaun Of the Dead - styled using markdown
 ---
 
 <wip-page class="print-container">
-    <div class="wip-title-page">
-        This is the text block that will be centered on the printed page.
+    <div class="wip-title-page" markdown="1">
+Title of the Document
+{: .screenplay-title}
+Subtitle or Author Name
+{: .by}
     </div>
 </wip-page>
 
