@@ -4,12 +4,12 @@ title: Shaun Of the Dead - styled using markdown
 ---
 
 <wip-page class="print-container">
-    <div class="wip-title-page" markdown="1">
+<div class="wip-title-page" markdown="1">
 Title of the Document
 {: .screenplay-title}
 Subtitle or Author Name
 {: .by}
-    </div>
+</div>
 </wip-page>
 
 
