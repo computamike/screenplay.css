@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Example Screenplay file ### 
-As a massive Shaun of the dead fan, you can see my attempts at rendering a screen play using an example - [Shaun of the dead](/Shaun_of_the_dead)
+As a massive Shaun of the dead fan, you can see my attempts at rendering a screen play using an example - [Shaun of the dead](Shaun_of_the_dead)
 
 ### Jekyll Themes
 
